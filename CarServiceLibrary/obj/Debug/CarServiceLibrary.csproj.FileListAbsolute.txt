@@ -1,0 +1,16 @@
+D:\Course work\CarServiceLibrary\bin\Debug\CarServiceLibrary.dll
+D:\Course work\CarServiceLibrary\bin\Debug\CarServiceLibrary.pdb
+D:\Course work\CarServiceLibrary\obj\Debug\CarServiceLibrary.csprojAssemblyReference.cache
+D:\Course work\CarServiceLibrary\obj\Debug\CarServiceLibrary.dll
+D:\Course work\CarServiceLibrary\obj\Debug\CarServiceLibrary.pdb
+D:\Course work\CarServiceLibrary\bin\Debug\GemBox.Email.dll
+D:\Course work\CarServiceLibrary\bin\Debug\GemBox.Email.xml
+D:\Course work\CarServiceLibrary\obj\Debug\CarServiceLibrary.csproj.CopyComplete
+D:\Курсовая Работа\Course work\CarServiceLibrary\bin\Debug\CarServiceLibrary.dll
+D:\Курсовая Работа\Course work\CarServiceLibrary\bin\Debug\CarServiceLibrary.pdb
+D:\Курсовая Работа\Course work\CarServiceLibrary\bin\Debug\GemBox.Email.dll
+D:\Курсовая Работа\Course work\CarServiceLibrary\bin\Debug\GemBox.Email.xml
+D:\Курсовая Работа\Course work\CarServiceLibrary\obj\Debug\CarServiceLibrary.csprojAssemblyReference.cache
+D:\Курсовая Работа\Course work\CarServiceLibrary\obj\Debug\CarServiceLibrary.csproj.CopyComplete
+D:\Курсовая Работа\Course work\CarServiceLibrary\obj\Debug\CarServiceLibrary.dll
+D:\Курсовая Работа\Course work\CarServiceLibrary\obj\Debug\CarServiceLibrary.pdb
