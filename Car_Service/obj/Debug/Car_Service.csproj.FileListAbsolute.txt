@@ -1,0 +1,123 @@
+D:\Course work\Car_Service\bin\Debug\CarsDatabase.mdf
+D:\Course work\Car_Service\bin\Debug\CarsDatabase_log.ldf
+D:\Course work\Car_Service\bin\Debug\Car_Service.exe.config
+D:\Course work\Car_Service\bin\Debug\Car_Service.exe
+D:\Course work\Car_Service\bin\Debug\Car_Service.pdb
+D:\Course work\Car_Service\obj\Debug\Car_Service.csprojAssemblyReference.cache
+D:\Course work\Car_Service\obj\Debug\Car_Service.InterfaceForm.resources
+D:\Course work\Car_Service\obj\Debug\Car_Service.MainForm.resources
+D:\Course work\Car_Service\obj\Debug\Car_Service.Properties.Resources.resources
+D:\Course work\Car_Service\obj\Debug\Car_Service.csproj.GenerateResource.cache
+D:\Course work\Car_Service\obj\Debug\Car_Service.exe
+D:\Course work\Car_Service\obj\Debug\Car_Service.pdb
+D:\Course work\Car_Service\bin\Debug\CarServiceLibrary.dll
+D:\Course work\Car_Service\bin\Debug\DataBasesLibrary.dll
+D:\Course work\Car_Service\bin\Debug\GemBox.Email.dll
+D:\Course work\Car_Service\bin\Debug\CarServiceLibrary.pdb
+D:\Course work\Car_Service\bin\Debug\DataBasesLibrary.pdb
+D:\Course work\Car_Service\bin\Debug\GemBox.Email.xml
+D:\Course work\Car_Service\obj\Debug\Car_Service.Add.resources
+D:\Course work\Car_Service\obj\Debug\Car_Service.AddCarRegister.resources
+D:\Course work\Car_Service\obj\Debug\Car_Service.AddCompanie.resources
+D:\Course work\Car_Service\obj\Debug\Car_Service.AddEmployees.resources
+D:\Course work\Car_Service\obj\Debug\Car_Service.AddTool.resources
+D:\Course work\Car_Service\obj\Debug\Car_Service.AddUser.resources
+D:\Course work\Car_Service\obj\Debug\Car_Service.BuyingProcess.resources
+D:\Course work\Car_Service\obj\Debug\Car_Service.BillServicingCar.resources
+D:\Course work\Car_Service\obj\Debug\Car_Service.CarRegisters.resources
+D:\Course work\Car_Service\obj\Debug\Car_Service.ChoiceUsedTools.resources
+D:\Course work\Car_Service\obj\Debug\Car_Service.HistoryC.resources
+D:\Course work\Car_Service\obj\Debug\Car_Service.OperationsC.resources
+D:\Course work\Car_Service\obj\Debug\Car_Service.ShowEditDelete.resources
+D:\Course work\Car_Service\obj\Debug\Car_Service.History.resources
+D:\Course work\Car_Service\obj\Debug\Car_Service.PurchaseInvoice.resources
+D:\Course work\Car_Service\obj\Debug\Car_Service.PurchasesHistory.resources
+D:\Course work\Car_Service\obj\Debug\Car_Service.Reports.resources
+D:\Course work\Car_Service\obj\Debug\Car_Service.SendOrder.resources
+D:\Course work\Car_Service\obj\Debug\Car_Service.ShowEditCompanies.resources
+D:\Course work\Car_Service\obj\Debug\Car_Service.ShowEditEmployees.resources
+D:\Course work\Car_Service\obj\Debug\Car_Service.ShowEditTools.resources
+D:\Course work\Car_Service\obj\Debug\Car_Service.ShowEditUsers.resources
+D:\Course work\Car_Service\obj\Debug\Car_Service.csproj.CopyComplete
+D:\Курсовая Работа\Car_Service\Car_Service\bin\Debug\CarsDatabase.mdf
+D:\Курсовая Работа\Car_Service\Car_Service\bin\Debug\CarsDatabase_log.ldf
+D:\Курсовая Работа\Car_Service\Car_Service\bin\Debug\Car_Service.exe.config
+D:\Курсовая Работа\Car_Service\Car_Service\bin\Debug\Car_Service.exe
+D:\Курсовая Работа\Car_Service\Car_Service\bin\Debug\Car_Service.pdb
+D:\Курсовая Работа\Car_Service\Car_Service\bin\Debug\CarServiceLibrary.dll
+D:\Курсовая Работа\Car_Service\Car_Service\bin\Debug\DataBasesLibrary.dll
+D:\Курсовая Работа\Car_Service\Car_Service\bin\Debug\GemBox.Email.dll
+D:\Курсовая Работа\Car_Service\Car_Service\bin\Debug\CarServiceLibrary.pdb
+D:\Курсовая Работа\Car_Service\Car_Service\bin\Debug\DataBasesLibrary.pdb
+D:\Курсовая Работа\Car_Service\Car_Service\bin\Debug\GemBox.Email.xml
+D:\Курсовая Работа\Car_Service\Car_Service\obj\Debug\Car_Service.csprojAssemblyReference.cache
+D:\Курсовая Работа\Car_Service\Car_Service\obj\Debug\Car_Service.Add.resources
+D:\Курсовая Работа\Car_Service\Car_Service\obj\Debug\Car_Service.AddCarRegister.resources
+D:\Курсовая Работа\Car_Service\Car_Service\obj\Debug\Car_Service.AddCompanie.resources
+D:\Курсовая Работа\Car_Service\Car_Service\obj\Debug\Car_Service.AddEmployees.resources
+D:\Курсовая Работа\Car_Service\Car_Service\obj\Debug\Car_Service.AddTool.resources
+D:\Курсовая Работа\Car_Service\Car_Service\obj\Debug\Car_Service.AddUser.resources
+D:\Курсовая Работа\Car_Service\Car_Service\obj\Debug\Car_Service.BuyingProcess.resources
+D:\Курсовая Работа\Car_Service\Car_Service\obj\Debug\Car_Service.BillServicingCar.resources
+D:\Курсовая Работа\Car_Service\Car_Service\obj\Debug\Car_Service.CarRegisters.resources
+D:\Курсовая Работа\Car_Service\Car_Service\obj\Debug\Car_Service.ChoiceUsedTools.resources
+D:\Курсовая Работа\Car_Service\Car_Service\obj\Debug\Car_Service.HistoryC.resources
+D:\Курсовая Работа\Car_Service\Car_Service\obj\Debug\Car_Service.OperationsC.resources
+D:\Курсовая Работа\Car_Service\Car_Service\obj\Debug\Car_Service.ShowEditDelete.resources
+D:\Курсовая Работа\Car_Service\Car_Service\obj\Debug\Car_Service.History.resources
+D:\Курсовая Работа\Car_Service\Car_Service\obj\Debug\Car_Service.InterfaceForm.resources
+D:\Курсовая Работа\Car_Service\Car_Service\obj\Debug\Car_Service.MainForm.resources
+D:\Курсовая Работа\Car_Service\Car_Service\obj\Debug\Car_Service.Properties.Resources.resources
+D:\Курсовая Работа\Car_Service\Car_Service\obj\Debug\Car_Service.PurchaseInvoice.resources
+D:\Курсовая Работа\Car_Service\Car_Service\obj\Debug\Car_Service.PurchasesHistory.resources
+D:\Курсовая Работа\Car_Service\Car_Service\obj\Debug\Car_Service.Reports.resources
+D:\Курсовая Работа\Car_Service\Car_Service\obj\Debug\Car_Service.SendOrder.resources
+D:\Курсовая Работа\Car_Service\Car_Service\obj\Debug\Car_Service.ShowEditCompanies.resources
+D:\Курсовая Работа\Car_Service\Car_Service\obj\Debug\Car_Service.ShowEditEmployees.resources
+D:\Курсовая Работа\Car_Service\Car_Service\obj\Debug\Car_Service.ShowEditTools.resources
+D:\Курсовая Работа\Car_Service\Car_Service\obj\Debug\Car_Service.ShowEditUsers.resources
+D:\Курсовая Работа\Car_Service\Car_Service\obj\Debug\Car_Service.csproj.GenerateResource.cache
+D:\Курсовая Работа\Car_Service\Car_Service\obj\Debug\Car_Service.csproj.CopyComplete
+D:\Курсовая Работа\Car_Service\Car_Service\obj\Debug\Car_Service.exe
+D:\Курсовая Работа\Car_Service\Car_Service\obj\Debug\Car_Service.pdb
+D:\Курсовая Работа\Course work\Car_Service\bin\Debug\CarsDatabase.mdf
+D:\Курсовая Работа\Course work\Car_Service\bin\Debug\CarsDatabase_log.ldf
+D:\Курсовая Работа\Course work\Car_Service\bin\Debug\Car_Service.exe.config
+D:\Курсовая Работа\Course work\Car_Service\bin\Debug\Car_Service.exe
+D:\Курсовая Работа\Course work\Car_Service\bin\Debug\Car_Service.pdb
+D:\Курсовая Работа\Course work\Car_Service\bin\Debug\CarServiceLibrary.dll
+D:\Курсовая Работа\Course work\Car_Service\bin\Debug\DataBasesLibrary.dll
+D:\Курсовая Работа\Course work\Car_Service\bin\Debug\GemBox.Email.dll
+D:\Курсовая Работа\Course work\Car_Service\bin\Debug\CarServiceLibrary.pdb
+D:\Курсовая Работа\Course work\Car_Service\bin\Debug\DataBasesLibrary.pdb
+D:\Курсовая Работа\Course work\Car_Service\bin\Debug\GemBox.Email.xml
+D:\Курсовая Работа\Course work\Car_Service\obj\Debug\Car_Service.csprojAssemblyReference.cache
+D:\Курсовая Работа\Course work\Car_Service\obj\Debug\Car_Service.Add.resources
+D:\Курсовая Работа\Course work\Car_Service\obj\Debug\Car_Service.AddCarRegister.resources
+D:\Курсовая Работа\Course work\Car_Service\obj\Debug\Car_Service.AddEmployees.resources
+D:\Курсовая Работа\Course work\Car_Service\obj\Debug\Car_Service.AddTool.resources
+D:\Курсовая Работа\Course work\Car_Service\obj\Debug\Car_Service.AddUser.resources
+D:\Курсовая Работа\Course work\Car_Service\obj\Debug\Car_Service.BuyingProcess.resources
+D:\Курсовая Работа\Course work\Car_Service\obj\Debug\Car_Service.BillServicingCar.resources
+D:\Курсовая Работа\Course work\Car_Service\obj\Debug\Car_Service.CarRegisters.resources
+D:\Курсовая Работа\Course work\Car_Service\obj\Debug\Car_Service.ChoiceUsedTools.resources
+D:\Курсовая Работа\Course work\Car_Service\obj\Debug\Car_Service.HistoryC.resources
+D:\Курсовая Работа\Course work\Car_Service\obj\Debug\Car_Service.OperationsC.resources
+D:\Курсовая Работа\Course work\Car_Service\obj\Debug\Car_Service.ShowEditDelete.resources
+D:\Курсовая Работа\Course work\Car_Service\obj\Debug\Car_Service.History.resources
+D:\Курсовая Работа\Course work\Car_Service\obj\Debug\Car_Service.InterfaceForm.resources
+D:\Курсовая Работа\Course work\Car_Service\obj\Debug\Car_Service.MainForm.resources
+D:\Курсовая Работа\Course work\Car_Service\obj\Debug\Car_Service.Properties.Resources.resources
+D:\Курсовая Работа\Course work\Car_Service\obj\Debug\Car_Service.PurchaseInvoice.resources
+D:\Курсовая Работа\Course work\Car_Service\obj\Debug\Car_Service.PurchasesHistory.resources
+D:\Курсовая Работа\Course work\Car_Service\obj\Debug\Car_Service.Reports.resources
+D:\Курсовая Работа\Course work\Car_Service\obj\Debug\Car_Service.SendOrder.resources
+D:\Курсовая Работа\Course work\Car_Service\obj\Debug\Car_Service.ShowEditCompanies.resources
+D:\Курсовая Работа\Course work\Car_Service\obj\Debug\Car_Service.ShowEditEmployees.resources
+D:\Курсовая Работа\Course work\Car_Service\obj\Debug\Car_Service.ShowEditTools.resources
+D:\Курсовая Работа\Course work\Car_Service\obj\Debug\Car_Service.ShowEditUsers.resources
+D:\Курсовая Работа\Course work\Car_Service\obj\Debug\Car_Service.csproj.GenerateResource.cache
+D:\Курсовая Работа\Course work\Car_Service\obj\Debug\Car_Service.csproj.CopyComplete
+D:\Курсовая Работа\Course work\Car_Service\obj\Debug\Car_Service.exe
+D:\Курсовая Работа\Course work\Car_Service\obj\Debug\Car_Service.pdb
+D:\Курсовая Работа\Course work\Car_Service\obj\Debug\Car_Service.AddCompany.resources

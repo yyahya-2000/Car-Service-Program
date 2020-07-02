@@ -1,0 +1,398 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{BF67DAF9-A421-4D89-87BD-EF2B2B4DA5AD}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Car_Service</RootNamespace>
+    <AssemblyName>Car_Service</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Cemagraphics-Classic-Cars-Vw-beetle.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <LangVersion>7.3</LangVersion>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <LangVersion>7.3</LangVersion>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="GemBox.Email, Version=15.0.35.1014, Culture=neutral, PublicKeyToken=b1b72c69714d4847, processorArchitecture=MSIL">
+      <HintPath>packages\GemBox.Email.15.0.1014\lib\net35\GemBox.Email.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Net" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Add.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Add.Designer.cs">
+      <DependentUpon>Add.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddCarRegister.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddCarRegister.Designer.cs">
+      <DependentUpon>AddCarRegister.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddCompany.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddCompany.Designer.cs">
+      <DependentUpon>AddCompany.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddEmployees.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddEmployees.Designer.cs">
+      <DependentUpon>AddEmployees.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddTool.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddTool.Designer.cs">
+      <DependentUpon>AddTool.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddUser.Designer.cs">
+      <DependentUpon>AddUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BuyingProcess.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BuyingProcess.Designer.cs">
+      <DependentUpon>BuyingProcess.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BillServicingCar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BillServicingCar.Designer.cs">
+      <DependentUpon>BillServicingCar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CarRegisters.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CarRegisters.Designer.cs">
+      <DependentUpon>CarRegisters.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ChoiceUsedTools.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ChoiceUsedTools.Designer.cs">
+      <DependentUpon>ChoiceUsedTools.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HistoryC.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="HistoryC.Designer.cs">
+      <DependentUpon>HistoryC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OperationsC.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="OperationsC.Designer.cs">
+      <DependentUpon>OperationsC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="ShowEditDelete.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ShowEditDelete.Designer.cs">
+      <DependentUpon>ShowEditDelete.cs</DependentUpon>
+    </Compile>
+    <Compile Include="History.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="History.Designer.cs">
+      <DependentUpon>History.cs</DependentUpon>
+    </Compile>
+    <Compile Include="InterfaceForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InterfaceForm.Designer.cs">
+      <DependentUpon>InterfaceForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="PurchaseInvoice.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PurchaseInvoice.Designer.cs">
+      <DependentUpon>PurchaseInvoice.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PurchasesHistory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PurchasesHistory.Designer.cs">
+      <DependentUpon>PurchasesHistory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reports.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reports.Designer.cs">
+      <DependentUpon>Reports.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SendOrder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SendOrder.Designer.cs">
+      <DependentUpon>SendOrder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ShowEditCompanies.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShowEditCompanies.Designer.cs">
+      <DependentUpon>ShowEditCompanies.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ShowEditEmployees.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShowEditEmployees.Designer.cs">
+      <DependentUpon>ShowEditEmployees.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ShowEditTools.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShowEditTools.Designer.cs">
+      <DependentUpon>ShowEditTools.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ShowEditUsers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShowEditUsers.Designer.cs">
+      <DependentUpon>ShowEditUsers.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Add.resx">
+      <DependentUpon>Add.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddCarRegister.resx">
+      <DependentUpon>AddCarRegister.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddCompany.resx">
+      <DependentUpon>AddCompany.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddEmployees.resx">
+      <DependentUpon>AddEmployees.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddTool.resx">
+      <DependentUpon>AddTool.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddUser.resx">
+      <DependentUpon>AddUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BuyingProcess.resx">
+      <DependentUpon>BuyingProcess.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BillServicingCar.resx">
+      <DependentUpon>BillServicingCar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CarRegisters.resx">
+      <DependentUpon>CarRegisters.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChoiceUsedTools.resx">
+      <DependentUpon>ChoiceUsedTools.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HistoryC.resx">
+      <DependentUpon>HistoryC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OperationsC.resx">
+      <DependentUpon>OperationsC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShowEditDelete.resx">
+      <DependentUpon>ShowEditDelete.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="History.resx">
+      <DependentUpon>History.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InterfaceForm.resx">
+      <DependentUpon>InterfaceForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PurchaseInvoice.resx">
+      <DependentUpon>PurchaseInvoice.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PurchasesHistory.resx">
+      <DependentUpon>PurchasesHistory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports.resx">
+      <DependentUpon>Reports.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SendOrder.resx">
+      <DependentUpon>SendOrder.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShowEditCompanies.resx">
+      <DependentUpon>ShowEditCompanies.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShowEditEmployees.resx">
+      <DependentUpon>ShowEditEmployees.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShowEditTools.resx">
+      <DependentUpon>ShowEditTools.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShowEditUsers.resx">
+      <DependentUpon>ShowEditUsers.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="ClassDiagram1.cd" />
+    <None Include="ClassDiagram2.cd" />
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="CarsDatabase.mdf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="CarsDatabase_log.ldf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <DependentUpon>CarsDatabase.mdf</DependentUpon>
+    </Content>
+    <Content Include="Cemagraphics-Classic-Cars-Vw-beetle.ico" />
+    <None Include="media\double_down_30px.png" />
+    <None Include="media\double_up_30px.png" />
+    <None Include="media\minus_24px.png" />
+    <None Include="media\delete_32px.png" />
+    <None Include="media\27957324newwww.jpg" />
+    <None Include="media\agreement_64px.png" />
+    <None Include="media\maintenance_64px.png" />
+    <None Include="media\add_shopping_cart_64px.png" />
+    <None Include="media\traffic_jam_64px.png" />
+    <None Include="media\cash_register_64px.png" />
+    <None Include="media\checkout_64px.png" />
+    <None Include="media\Topography_-_Zoom_Background.jpg" />
+    <None Include="media\company_64px.png" />
+    <None Include="media\employee_64px.png" />
+    <None Include="media\engineering_64px.png" />
+    <None Include="media\add_user_male_64px.png" />
+    <None Include="media\details_80px.png" />
+    <None Include="media\home_page_80px.png" />
+    <None Include="media\minimize_window_80px.png" />
+    <None Include="media\close_window_80px.png" />
+    <None Include="media\delete_24px.png" />
+    <None Include="media\multiply_30px.png" />
+    <None Include="media\content_32px.png" />
+    <None Include="media\вшэ-png-1.png" />
+    <None Include="media\27957324newww.jpg" />
+    <None Include="media\autonomousdriving-1851-1.jpg" />
+    <None Include="media\neon-icon-car-service\14763.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.7.2 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CarServiceLibrary\CarServiceLibrary.csproj">
+      <Project>{d6643304-22b4-447a-8aba-022420d6875e}</Project>
+      <Name>CarServiceLibrary</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DataBasesLibrary\DataBasesLibrary.csproj">
+      <Project>{2a13bbdf-b9e0-4c3a-a453-8e6a2028c029}</Project>
+      <Name>DataBasesLibrary</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
