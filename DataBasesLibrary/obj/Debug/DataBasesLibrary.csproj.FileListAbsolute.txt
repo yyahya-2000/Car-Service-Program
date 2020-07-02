@@ -1,0 +1,16 @@
+D:\Course work\DataBasesLibrary\bin\Debug\DataBasesLibrary.dll
+D:\Course work\DataBasesLibrary\bin\Debug\DataBasesLibrary.pdb
+D:\Course work\DataBasesLibrary\obj\Debug\DataBasesLibrary.csprojAssemblyReference.cache
+D:\Course work\DataBasesLibrary\obj\Debug\DataBasesLibrary.dll
+D:\Course work\DataBasesLibrary\obj\Debug\DataBasesLibrary.pdb
+D:\Course work\DataBasesLibrary\bin\Debug\GemBox.Email.dll
+D:\Course work\DataBasesLibrary\bin\Debug\GemBox.Email.xml
+D:\Course work\DataBasesLibrary\obj\Debug\DataBasesLibrary.csproj.CopyComplete
+D:\Курсовая Работа\Course work\DataBasesLibrary\bin\Debug\DataBasesLibrary.dll
+D:\Курсовая Работа\Course work\DataBasesLibrary\bin\Debug\DataBasesLibrary.pdb
+D:\Курсовая Работа\Course work\DataBasesLibrary\bin\Debug\GemBox.Email.dll
+D:\Курсовая Работа\Course work\DataBasesLibrary\bin\Debug\GemBox.Email.xml
+D:\Курсовая Работа\Course work\DataBasesLibrary\obj\Debug\DataBasesLibrary.csprojAssemblyReference.cache
+D:\Курсовая Работа\Course work\DataBasesLibrary\obj\Debug\DataBasesLibrary.csproj.CopyComplete
+D:\Курсовая Работа\Course work\DataBasesLibrary\obj\Debug\DataBasesLibrary.dll
+D:\Курсовая Работа\Course work\DataBasesLibrary\obj\Debug\DataBasesLibrary.pdb
